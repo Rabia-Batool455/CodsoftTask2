@@ -1,3 +1,3 @@
 # Task 2 
-# Codsof Web Development Internship
+# Tecknohacks Web Development Internship
 # My Personal Portfolio
